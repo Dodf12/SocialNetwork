@@ -1,0 +1,14 @@
+.vscode/
+
+build/
+*.o
+
+*.pro.user.*
+
+Homework4ActualQt.app/
+
+.qmake.stash
+.qtc_clangd/
+.DS_Store
+
+Makefile

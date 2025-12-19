@@ -1,0 +1,249 @@
+31
+0
+	       The llama finally tried the lemonade again.
+	0
+	0
+	15
+	PUBLIC
+
+
+1
+	       Testing visibility of a friends-only post.
+	1
+	0
+	9
+	FRIENDS
+
+
+2
+	       Debugging Qt sandbox issues at midnight...
+	1
+	1
+	3
+	PRIVATE
+
+
+3
+	       Debugging Qt sandbox issues at midnight...
+	1
+	1
+	3
+	PRIVATE
+
+
+4
+	       Debugging Qt sandbox issues at midnight...
+	1
+	1
+	3
+	PRIVATE
+
+
+5
+	       Alex Montes is a baddie
+	1
+	1
+	5
+	FRIENDS
+
+
+6
+	       Sanath Jayasuriya is the goat
+	1
+	0
+	6
+	FRIENDS
+
+
+7
+	       Kelly is an evil shit
+	7
+	2
+	0
+	PRIVATE
+
+
+8
+	       Haaris George is getting banned
+	7
+	7
+	0
+	FRIENDS
+
+
+9
+	       Hi kelly, lets be friends
+	7
+	0
+	2
+	PRIVATE
+
+
+10
+	       Omg ladies this is epic!!!
+	0
+	0
+	2
+	PUBLIC
+
+
+11
+	       I hate everything
+	0
+	0
+	1
+	FRIENDS
+
+
+12
+	       mwahahaha
+	0
+	0
+	2
+	FRIENDS
+
+
+13
+	       aw shit, here we go again
+	0
+	0
+	3
+	PRIVATE
+
+
+14
+	       I love you
+	0
+	0
+	0
+	PUBLIC
+
+
+15
+	I like shooting guns at teh range
+	0
+	0
+	2
+	PUBLIC
+
+
+16
+	Your cool
+	0
+	0
+	0
+	PUBLIC
+
+
+17
+	Yk, ur cute lol
+	1
+	0
+	0
+	PRIVATE
+
+
+18
+	My favorite dog died
+	1
+	2
+	0
+	PRIVATE
+
+
+19
+	i like you
+	5
+	2
+	0
+	PUBLIC
+
+
+20
+	Kelly Ngyuyen can't see this
+	0
+	0
+	0
+	FRIENDS
+
+
+21
+	Hello public post
+	0
+	0
+	0
+	PUBLIC
+
+
+22
+	Only Aled Montes Friends Can see This
+	0
+	0
+	1
+	FRIENDS
+0 
+
+23
+	Only Aled and Sandhya can see this
+	1
+	0
+	1
+	PRIVATE
+
+
+24
+	This is a public post
+	0
+	0
+	0
+	PUBLIC
+
+
+25
+	Only Aled Montes Friends can see it
+	0
+	0
+	1
+	FRIENDS
+2 
+
+26
+	Only Aled and Sandya can see this
+	1
+	0
+	0
+	PRIVATE
+
+
+27
+	Only friends can see this
+	0
+	0
+	1
+	FRIENDS
+2 
+
+28
+	I condemn killing
+	0
+	0
+	0
+	PUBLIC
+
+
+29
+	I commend condemning kiling
+	0
+	0
+	0
+	PUBLIC
+
+
+30
+	I condemn condeming killing
+	0
+	0
+	0
+	PUBLIC
+
+
