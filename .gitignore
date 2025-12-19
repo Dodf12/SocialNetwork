@@ -1,0 +1,54 @@
+# Backend (Spring Boot)
+backend/HELP.md
+backend/target/
+backend/.mvn/wrapper/maven-wrapper.jar
+HELP.md
+target/
+.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+# Qt (C++)
+*.o
+*.pro.user.*
+Homework4ActualQt.app/
+.qmake.stash
+.qtc_clangd/
+/Homework4ActualQt/.vscode/
+/Homework4ActualQt/build/
+/Homework4ActualQt/Homework4ActualQt.app/
+
+
+
+# OS
+.DS_Store
+
+# Editor
+.vscode/
+
+
