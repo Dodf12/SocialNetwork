@@ -7,7 +7,7 @@
 MessageFilter::MessageFilter()
 {
   url = QUrl("https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent");
-  apiKey = "AIzaSyDUUKwYDyav0IoQoqAMcmdsgVt6pNzzO-Y";
+  apiKey = "";
 }
 
 bool MessageFilter::filterMessage(QString message)
